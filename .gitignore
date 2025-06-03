@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Power BI backup files (optional, if you want to ignore large files)
+*.pbix
+
+# Virtual environment folders (if you use any)
+venv/
+env/
