@@ -26,5 +26,6 @@ This project involves analyzing HR data to uncover insights related to employee 
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/hr-analytics-project.git
-   cd hr-analytics-project
+   git clone https://github.com/qinisela-ndlovu/hr_employee_attrition_project.git
+cd hr_employee_attrition_project
+
