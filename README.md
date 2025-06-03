@@ -20,7 +20,7 @@ This project involves analyzing HR data to uncover insights related to employee 
 - Source: [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 📝 Summary
-- Cleaned missing values and encoded categorical variables using Python(Jupyter Notebook).
+- Summarised data and dealt with categorical variables using Python(Jupyter Notebook).
 - Analyzed trends using SQL queries.
 - Created an interactive dashboard in Power BI.
 
