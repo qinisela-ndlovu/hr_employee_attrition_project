@@ -1,13 +1,13 @@
-# hr_employee_attrition_project
+# HR_Employee_Attrition_Project
 Analyzing HR data and visualize using Power BI
 
 This project involves analyzing HR data to uncover insights related to employee attrition, satisfication and performance.
 
 ## 📂 Project Structure
-- `data/`: Original dataset from Kaggle.
-- `notebooks/`: Python notebook for data cleaning and preprocessing.
+- `Original Data/`: Original dataset from Kaggle.
+- `Jupyter Notebook/`: Python notebook for data cleaning and preprocessing.
 - `sql/`: MySQL queries used for data analysis.
-- `visuals/`: Power BI dashboard.
+- `PowetBi Dashbpard/`: Power BI dashboard.
 - `README.md`: Project documentation.
 
 ## 🔧 Tools Used
