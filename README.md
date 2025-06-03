@@ -8,6 +8,7 @@ This project involves analyzing HR data to uncover insights related to employee 
 - `Jupyter Notebook/`: Python notebook for data cleaning and preprocessing.
 - `sql/`: MySQL queries used for data analysis.
 - `PowetBi Dashbpard/`: Power BI dashboard.
+- 'Excel files/': The view to be imported on PowerBi and other analytics data
 - `README.md`: Project documentation.
 
 ## 🔧 Tools Used
