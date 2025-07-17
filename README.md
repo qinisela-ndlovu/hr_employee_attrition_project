@@ -1,4 +1,4 @@
-# HR_Employee_Attrition_Project
+# HR_Data Analytics
 Analyzing HR data and visualize using Power BI
 
 This project involves analyzing HR data to uncover insights related to employee attrition, satisfication and performance.
